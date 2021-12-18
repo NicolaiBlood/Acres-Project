@@ -3,8 +3,11 @@
 </script>
 
 <main>
+	<img src="images/vardy-leicester.jpeg" alt="Jamie Vardy">
 	<h1>{name}!</h1>
+	
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	
 </main>
 
 <style>
