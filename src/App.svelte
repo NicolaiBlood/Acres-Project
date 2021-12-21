@@ -1,5 +1,7 @@
 <script>
 	export let name;
+	let src = "images/vardy-leicester.jpeg";
+	let coolGif = "public/images/giphy (7).gif";
 </script>
 
 <main>
@@ -8,7 +10,10 @@
 	
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to EAT ME ASS.</p>
 	
-	<button>chill chill</button>
+	<img src="images/giphy (7).gif" alt= "vardy"/>
+	<br>
+	<img {coolGif} alt="tight gif">
+
 </main>
 
 <style>
