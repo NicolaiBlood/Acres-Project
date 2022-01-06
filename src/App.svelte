@@ -10,9 +10,9 @@
 	
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to EAT ME ASS.</p>
 	
-	<img src="images/giphy (7).gif" alt= "vardy"/>
+	<img {src} alt= "vardy"/>
 	<br>
-	<img {coolGif} alt="tight gif">
+	<img src="images/giphy (7).gif" alt="tight gif">
 
 </main>
 
